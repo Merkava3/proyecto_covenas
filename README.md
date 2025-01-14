@@ -22,7 +22,11 @@ Desarrollar una aplicación web para la gestión y promoción de cabañas en el 
 
 3. Integrar un chat tipo red social que facilita la comunicación en tiempo real entre los viajeros y los propietarios de las cabañas, brindando un espacio para resolver consultas, negociar términos adicionales y obtener más información sobre alojamientos de las cabañas en vivo. Además, se incluyen imágenes de 360 grados de las cabañas para brindar a los turistas una experiencia de visualización realista y detallada.
 
-4. •	Evaluar pruebas y evaluaciones de la web app en conjunto con turistas y propietarios de cabañas en Coveñas, con el fin de identificar posibles mejoras y asegurar su eficiencia y efectividad en la gestión de la disponibilidad de cabañas y la reserva en línea
+4. Evaluar pruebas y evaluaciones de la web app en conjunto con turistas y propietarios de cabañas en Coveñas, con el fin de identificar posibles mejoras y asegurar su eficiencia y efectividad en la gestión de la disponibilidad de cabañas y la reserva en línea.
+
+## Alcance del Proyecto
+
+la app tiene un alcance
 
 
 📓***Un modelo prototipo*** o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
