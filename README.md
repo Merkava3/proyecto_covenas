@@ -8,15 +8,13 @@ Programa : Ingenieria de sistemas
 
 
 
-### Introducción
----
-
-
+## Introducción
 En el siglo 21 la tecnologia ha sido fundamental para el desarrollo economico del turismo en cualquier ciudad del mundo ahora en el municipio de coveñas departamento de sucre las personas viven del turismo como pilar fundamental para sostenimiento del municipio, ahora el municipio reciebe turistas de todas de colombia y del mundo donde viene a disfrutar actividades de sol, playa y ecoturismo pero con el creciente auge de turismo las personas buscan de formas rapida los hoteles pero con ocupacion alta en las temporadas donde hay mas turistas los hoteles se quedan toma la opcion de las cabañas pero hay casos de las personas de otras partes de colombia llegan pero ocupacion esta maximo ocupacion ni teniendo las plataformas digitales la es maxima tambien personas que se ponen dar vueltas en circulo buscando un cabaña o colocan excusas entre otras situaciones que se presentan para darle solucion se propuso crear una app web tipo (P.W.A) aplicacion web progresiva que permite tener las facilidades para turismo como son tiempo real la informacion de la cabañas, tener imagenes 360 grados para mirar mas a fondo la cabaña tener mas informacion de cantidad de personas si son familias o parejas ademas la app web (P.W.A) determina la ocupacion de las playas en la municipio con esta herramienta permite facilitar mas las estadia de los turistas asi pueden tener una mayor facilidades para los turistas tambien mirar lugares donde poder conocer.
 
 
-### Objetivos del Sistema
----
+## Objetivos del Sistema
+
+### objetivos generales
 Desarrollar una aplicación web para la gestión y promoción de cabañas en el sector turístico de Coveñas. 
 ### objetivos especificos
 1. Desarrollar una web app interactiva con un sistema de búsqueda y actualización en tiempo real que permitirá a los viajeros consultar la disponibilidad de cabañas en Coveñas, facilitando una experiencia de reserva eficiente y conveniente.
