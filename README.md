@@ -85,8 +85,38 @@ el proposito de este sistema darle herramientas para que los turistas las person
 ### pagina 8 - Acceso tu cabaña
 ![pagina 5](imagenes/Tu%20cabaña.png)
 
+## Herramientas y Tecnologías Utilizadas
+
+las herramientas que se van usar son :
+
+### metodologia agil desarrollo 
++ metodologia xp 
+
+### Fronted
++ React Typescript
++ Styled components
++ Redux
++ Formik
++ jest testing 
+
+### Backend
++ Leaf PHP
++ phpunit
+
+### base de datos
++ mysql worbech
 
 
++ la tecnologia que se implemetara del lado servidor se aplicara el concepto de Apis Rest
+
++ Para el diseño dela interfaz se usa figma
+
+## Implementación
+
+para poder implementar el app web se crea primero un diagrama entidad relacion que permitira analziar como se debe funcionar la base de datos luego se pasa a la construccion de la api usando php para conectar a la base de datos  con esto se hace los endpoints los verbos de la api con sus peticiones despues que se halla terminado la api se realiza una ser pruebas de software para probar la capacidad de respuesta de la apu cuando hay muchas saturacion de peticiones si la api pasa la gestion de pruebas de software se realiza al fronted que es usando react typescript, redux, styled components , formik y jest testing ahora el de esta herramienta se realiza prueba de software para que el fronted pueda cumplir con las expectativas.
+
+## Conclusiones y Recomendaciones
+ la concluciones sobre el desarrollo de software hay es que debe seguir unos parametros de eficiencia en el sistema para que cumpla las funcionalidades al momento que se realiza pruebas al app web debe cumplir estandares de calidad para cumpla con los requrimientos de analis de sistemas asi mismo garantizar con los usuarios puedan usar el sistema en cualquier momento
 
 
 📓***Un modelo prototipo*** o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
