@@ -73,9 +73,19 @@ el proposito de este sistema darle herramientas para que los turistas las person
 ### Pagina 2 - pagina de ecoturimo
 ![pagina 2](imagenes/Ecoturismo.png)
 ### Pagina 3  - login
-![pagina 2](imagenes/Login.png)
+![pagina 3](imagenes/Login.png)
 ### Pagina 4 - Ocupacion de las playas
-![pagina 2](imagenes/Ocupacion%20Playas.png)
+![pagina 4](imagenes/Ocupacion%20Playas.png)
+### pagina 5 - Acceso tu cabaña
+![pagina 5](imagenes/Acces%20Tu%20Cabaña.png)
+### pagina 6 - cabañas
+![pagina 6](imagenes/Cabañas.png)
+### pagina 7 - cabaña registrate
+![pagina 5](imagenes/Tu%20cabaña%20Registrase.png)
+### pagina 8 - Acceso tu cabaña
+![pagina 5](imagenes/Tu%20cabaña.png)
+
+
 
 
 
