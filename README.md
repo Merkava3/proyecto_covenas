@@ -28,5 +28,25 @@ Desarrollar una aplicación web para la gestión y promoción de cabañas en el 
 
 la app tiene un alcance
 
+## Análisis de Requisitos
+
+### Requisitos Funcionales
+---
+1. permitir que los usuarios realizen busquedas de filtrado en las cabañas es decir numero de personas si son familias o parejas el valor
+de precios tambien la ubicacion de la cabaña en el municipio de coveñas.
+
+2. ofrecer herramientas que los turistas pueda ocupar la cabaña mas rapido la disponibilidad inmediata en tiempo real 
+
+3. presentar imagenes en 360 grados de las cabañas para una mayor perspetiva de la cabaña
+
+4. experiencia de usuario offline para acceder algunas partes de la aplicación incluso cuando no tengas Internet. Esto hace que el uso de la aplicación sea mejor y
+ es algo que se puede solicitar al planificar la app web (P.W.A).
+
+5. asi mismo tener informacion en tiempo sobre la ocupacion de las playas 
+
+### Requisitos No Funcionales
+---
+
+
 
 📓***Un modelo prototipo*** o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
