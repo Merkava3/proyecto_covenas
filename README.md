@@ -4,10 +4,6 @@ Autor : Luis Carlos Siva Aguas
 
 Programa : Ingenieria de sistemas
 
-
-
-
-
 ## Introducción
 En el siglo 21 la tecnologia ha sido fundamental para el desarrollo economico del turismo en cualquier ciudad del mundo ahora en el municipio de coveñas departamento de sucre las personas viven del turismo como pilar fundamental para sostenimiento del municipio, ahora el municipio reciebe turistas de todas de colombia y del mundo donde viene a disfrutar actividades de sol, playa y ecoturismo pero con el creciente auge de turismo las personas buscan de formas rapida los hoteles pero con ocupacion alta en las temporadas donde hay mas turistas los hoteles se quedan toma la opcion de las cabañas pero hay casos de las personas de otras partes de colombia llegan pero ocupacion esta maximo ocupacion ni teniendo las plataformas digitales la es maxima tambien personas que se ponen dar vueltas en circulo buscando un cabaña o colocan excusas entre otras situaciones que se presentan para darle solucion se propuso crear una app web tipo (P.W.A) aplicacion web progresiva que permite tener las facilidades para turismo como son tiempo real la informacion de la cabañas, tener imagenes 360 grados para mirar mas a fondo la cabaña tener mas informacion de cantidad de personas si son familias o parejas ademas la app web (P.W.A) determina la ocupacion de las playas en la municipio con esta herramienta permite facilitar mas las estadia de los turistas asi pueden tener una mayor facilidades para los turistas tambien mirar lugares donde poder conocer.
 
@@ -26,7 +22,13 @@ Desarrollar una aplicación web para la gestión y promoción de cabañas en el 
 
 ## Alcance del Proyecto
 
-La app web (P.W.A) 
+La app web (P.W.A) consiste en desarrollar una herramienta que permita los visitantes tener una experiencia mas confortante
+es decir tener facilidades para las cabañas tener otras alternativas aparte de los hoteles ahora el alcance que tien la app web es 
+que las personas puedan buscar la disponibilidad de las cabañas en tiempo real mirar de una mas intuitiva con 360 grados la cabaña
+con esto permitara a los usuario ubicarse a un mas en el municipio para encontrar un lugar cuando se pueda elegir lugares favoritos calificacion de la cabaña ademas pueda observar en 360 grados tambien tener una comunicacio  directa con los dueños de las propiedades usar la app web directamente si necesida de gastar recursos tener usarla de manera mas facil, tambien medidas de seguridad para todos los usuarios como son autentifiacion para los usuarios por medio de token asi mismo garatizar que los usuarios tener una mayor efectvidad al uso de app web para el el uso de la tecnologia para app web para la parte de fronted se va usar react typescript con styled components y para la parte backend se ba usar php leaf para reducir costo de mantebilidad del sistema para la gestion de las base de datos es mysql, ahora el alcance del protecto se limito a la web ya que las personas cuando van a buscar sacan el celular buscan en los navegadores no van a playstore a descargar una aplicacion de celular se estima que el desarrollo tomara entre 1 año y 2 años para fase de desarrollo por que se debe tomar las fases de crear de las interfaces usuario los pruebas que al sistema se deben hacer para la calidad del sistema sea eficiente.
+
+El éxito del proyecto estará vinculado a varios factores importantes, como el diseño de interfaces fáciles de usar, el manejo seguro de pagos y el cumplimiento de los plazos fijados. Al concluir, la plataforma intentará brindar una solución efectiva y segura para ayudar con las reservas de hospedaje y ofrecer una experiencia placentera tanto para anfitriones como para viajeros..
+
 
 ## Análisis de Requisitos
 
@@ -55,6 +57,26 @@ de precios tambien la ubicacion de la cabaña en el municipio de coveñas.
 4. La interfaz de usuario tiene que ser intuitiva y sencilla de manejar para usuarios de todos los niveles.
 
 5. el codigo debe ser bien estructurado garatizando un buen funcionamiento
+
+## Prototipo del Sistema
+
+### Definición del Prototipo
+
+Tipo de prototipo: **Evolutivo**
+
+el proposito de este sistema darle herramientas para que los turistas las personas puedan tener experiencia mas agradable puedan tener informacion en tiempo real de las cabañas y asi mismo la ocupacion de las playas
+
+## Detalles del Diseño
+
+### Pagina 1 - Presentacion pagina
+![pagina 1](imagenes/Desktop%20-%201%20(3).png)
+### Pagina 2 - pagina de ecoturimo
+![pagina 2](imagenes/Ecoturismo.png)
+### Pagina 3  - login
+![pagina 2](imagenes/Login.png)
+### Pagina 4 - Ocupacion de las playas
+![pagina 2](imagenes/Ocupacion%20Playas.png)
+
 
 
 📓***Un modelo prototipo*** o modelo de desarrollo evolutivo es utilizado principalmente en el desarrollo de software para ofrecer al usuario una visión previa de cómo será el programa o sistema. Se le dice de desarrollo evolutivo al modelo de prototipo porque evoluciona hasta convertirse en el producto final.
